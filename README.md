@@ -7,8 +7,9 @@
   <a href="#"><img src="assets/0.gif"><a/>
   <a href="#"><img src="assets/6.gif"><a/>
 </p>
-	  
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+	
+
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/75073868/198192725-2fbec19f-5ae8-45fe-8fb3-e54ab9104ede.gif" />
 
 ☞ 〔 ❤ 〕Love to be with YOu | 
 
@@ -45,7 +46,7 @@
 <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 
 <!--  GIf -->
-<a href="#"><img width="450" align="right" src="https://github.com/SukumarReddy2115/SukumarReddy2115/blob/main/.github/workflows/programmer.mp4"  /></a>
+<a href="#"><img width="450" align="right" src=" "  /></a>
 
 
 ### Backend End:
