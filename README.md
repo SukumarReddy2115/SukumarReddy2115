@@ -50,7 +50,6 @@
 
 ### Backend End:
 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Sqlite](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools:
@@ -79,7 +78,6 @@
 	  
 ![snake gif](https://github.com/SukumarReddy2115/SukumarReddy2115/blob/output/github-contribution-grid-snake.gif)
 	  
-	  #
 	  
     
 
