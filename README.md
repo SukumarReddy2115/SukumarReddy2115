@@ -45,7 +45,7 @@
 <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 
 <!--  GIf -->
-<a href="#"><img width="450" align="right" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  /></a>
+<a href="#"><img width="450" align="right" src=""  /></a>
 
 
 ### Backend End:
@@ -71,7 +71,7 @@
 
 ### Github contribution:
 	  
-## Snake Animation
+## Snake Animation of my Contributions
 	  
 ![snake gif](https://github.com/SukumarReddy2115/SukumarReddy2115/blob/output/github-contribution-grid-snake.gif)
 	  
